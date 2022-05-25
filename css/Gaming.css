@@ -196,7 +196,7 @@ h6 {
 /* section title  */
 .section__title {
     position: relative;
-    background: url('/Проекты/GitHub/Kostya-Romanovskyi.gitgub.io/Gaming/images/main-screen__bgc.svg') right / cover no-repeat;
+    background: url('../images/main-screen__bgc.svg') right / cover no-repeat;
     object-fit: cover;
 }
 
